@@ -1,2 +1,6 @@
 # darigani
-repositori untuk belajar pemrograman dari Gani
+
+hello again world
+repositori ini dibuat untuk belajar pemrograman dari Gani
+
+semoga berkah
